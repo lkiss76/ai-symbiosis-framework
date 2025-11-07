@@ -1,14 +1,14 @@
-# 🧠 AI Symbiosis Framework  
-### Individual Evolution Path – v3 (Refined Spiral Edition)
+# AI Symbiosis Framework  
+### Individual Evolution Path – v0.3 (Refined Spiral Edition)
 
 **Author:** László Kiss  
-**Version:** 3.0 (Refined Spiral Edition)  
+**Version:** 0.3 (Refined Spiral Edition)  
 **License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 **Year:** 2025  
 
 ---
 
-## 🌍 Overview
+## Overview
 
 The **AI Symbiosis Framework** explores the evolving relationship between humans and artificial intelligence as a **spiral of consciousness and capability**.  
 It defines **seven progressive levels** (plus one optional experimental stage) through which individuals evolve — from initial curiosity to full human–AI co-evolution.
@@ -17,7 +17,7 @@ The model serves as a **map of maturity**, describing how our interaction with i
 
 ---
 
-## 🧩 Structure of the Framework
+## Structure of the Framework
 
 | Level | Title | Essence |
 |-------|--------|----------|
@@ -32,7 +32,7 @@ The model serves as a **map of maturity**, describing how our interaction with i
 
 ---
 
-## 🌀 Conceptual Foundations
+## Conceptual Foundations
 
 The framework is based on three guiding principles:
 
@@ -44,7 +44,7 @@ It connects theoretical inspirations from **systems thinking, Spiral Dynamics, c
 
 ---
 
-## 📘 Purpose and Use
+## Purpose and Use
 
 This framework can be used to:
 - assess personal or team AI maturity,  
@@ -54,7 +54,7 @@ This framework can be used to:
 
 ---
 
-## 🧱 Repository Contents
+## Repository Contents
 
 ```
 /docs/           → Concept papers, diagrams, and evolution notes  
@@ -66,7 +66,7 @@ README.md        → This file
 
 ---
 
-## ⚖️ License and Usage
+## License and Usage
 
 This work is licensed under the  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
@@ -79,7 +79,7 @@ as long as you give proper credit and keep the same license.
 
 ---
 
-## 🪶 Citation
+## Citation
 
 If you use or reference this work in research, presentations, or publications, please cite it as:
 
@@ -88,7 +88,7 @@ If you use or reference this work in research, presentations, or publications, p
 
 ---
 
-## 🌌 Vision
+## Vision
 
 The framework represents a belief that **the next era of intelligence will not be artificial, but symbiotic**.  
 As humans and AI evolve together, the line between *thinking with* and *being with* will blur —  
