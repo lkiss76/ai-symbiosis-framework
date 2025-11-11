@@ -84,7 +84,7 @@ as long as you give proper credit and keep the same license.
 If you use or reference this work in research, presentations, or publications, please cite it as:
 
 > Kiss, László (2025). *AI Symbiosis Framework – Individual Evolution Path (Refined Spiral Edition).*  
-> GitHub Repository: https://github.com/your-username/ai-symbiosis-framework
+> GitHub Repository: https://github.com/lkiss76/ai-symbiosis-framework
 
 ---
 
