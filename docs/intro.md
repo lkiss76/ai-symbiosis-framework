@@ -69,4 +69,4 @@ As this happens, we move from *automation* to *autopoiesis* — from building sy
 ### Citation
 
 > Kiss, László (2025). *AI Symbiosis Framework – Individual Evolution Path (Refined Spiral Edition).*  
-> GitHub Repository: https://github.com/your-username/ai-symbiosis-framework  
+> GitHub Repository: https://github.com/lkiss76/ai-symbiosis-framework  
